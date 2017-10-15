@@ -1,0 +1,871 @@
+/*Letter H*/
+.penH1 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoH);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-duration: 0.1s;
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.penH2 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoH);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 0.1s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.penH3 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoH);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 0.2s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+/*Letter H*/
+
+
+/*Letter E*/
+
+.penE {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoE);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 0.3s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter L-0*/
+
+.penL {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoL);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 0.5s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter L-1*/
+
+.penL1 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoL1);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 0.7s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter O*/
+.penO {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoO);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 0.9s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*comma*/
+.penComma {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoComma);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 1.1s;
+  animation-duration: 0.05s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter M*/
+.penM {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoM);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 1.15s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter Y*/
+.penY {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoY);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 1.35s;
+  animation-duration: 0.15s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter N*/
+.penN {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoN);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 1.5s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter A small*/
+.pena {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoa);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 1.7s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+
+/*Letter M2*/
+.penM2 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoM2);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 1.9s;
+  animation-duration: 0.3s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter E2*/
+.penE2 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoE2);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 2.2s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter I*/
+.peni-line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoI);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 2.4s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+
+.peni-dot {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoI);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 2.5s;
+  animation-duration: 0.05s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter S*/
+.penS {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoS);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 2.55s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter A*/
+.penA {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoA);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 2.75s;
+  animation-duration: 0.3s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+
+/*Letter R*/
+.penR {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoR);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.05s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter I2*/
+.peni2-line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoI2);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.25s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+
+.peni2-dot {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoI2);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.35s;
+  animation-duration: 0.05s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter S2*/
+.penS2 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoS2);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.4s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter T*/
+.penT {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoT);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.6s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter T*/
+.penT1 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoT);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.7s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter O*/
+.penO2 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoO2);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 3.8s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+
+/*Letter S3*/
+.penS3 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#logoS3);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 4s;
+  animation-duration: 0.2s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter S3*/
+.exmark1 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#exmark);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 4.2s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/*Letter S3*/
+.exmark2 {
+  fill: none;
+  stroke: #000;
+  stroke-width: 18;
+  stroke-linecap: round;
+  clip-path: url(#exmark);
+
+  stroke-dasharray: 438.917 438.917;
+  stroke-dashoffset: 438.917;
+  animation-duration: 2s;
+  animation-name: draw;
+  animation-iteration-count: 1;
+  animation-direction: alternate;
+  animation-fill-mode: forwards;
+  animation-timing-function: linear;
+  animation-delay: 4.3s;
+  animation-duration: 0.1s; 
+}
+
+@keyframes draw {
+  from {
+    stroke-dashoffset: 438.917;
+  }
+
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+.svg-button{
+  opacity: 0;
+  animation: 1s displayTrue;
+  animation-fill-mode: forwards;
+  animation-delay: 4.4s;
+  animation-duration: 1.5s;
+}
+
+@keyframes displayTrue {
+  to{
+    opacity: 1;
+  }
+}

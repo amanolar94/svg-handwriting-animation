@@ -1,0 +1,49 @@
+
+
+
+.svg-greeting{
+  display: block;
+  margin-left: 0px; /* fallback */
+  margin-left: calc(50% - 25vw);
+}
+
+.svg-inside{
+  margin-top: 1000px;
+  padding-top: 1000px; 
+  background-color: red;
+}
+.try{
+  background-color: red;
+}
+
+
+.button-outline{
+  fill: #fff;
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.st0{
+  fill: transparent;
+}
+
+
+.svg-button-text{
+  fill:#000;
+  font-family:'MyriadPro-Regular';
+  font-size:12px;
+}
+
+.svg-button:hover .button-outline{
+  fill: #000;
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.svg-button:hover .svg-button-text{
+  fill:  #fff;
+}
+
+a:hover, a:focus{
+  text-decoration: none;
+}
